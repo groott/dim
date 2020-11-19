@@ -350,4 +350,12 @@ https://destinytracker.com/destiny-2/db/items/407621213-berengers-memory?perks=2
 https://destinytracker.com/destiny-2/db/items/407621213-berengers-memory?perks=2353477480,3525010810,3301904089,2284787283,3523296417,4248210736,2323986101,0,0,2285418970
 https://destinytracker.com/destiny-2/db/items/407621213-berengers-memory?perks=2353477480,3798852852,3301904089,2284787283,3523296417,4248210736,2323986101,0,0,2285418970
 
-// PVE
+// Deafening Whisper GL
+
+// Friction Fire SMG
+
+// Corsair's Wrath Linear Fusion
+
+// Royal Chase Scout Rifle
+
+// Blast Battue GL

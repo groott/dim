@@ -1,3 +1,6 @@
+title:Private
+description:God Rolls only
+
 // AUTUMN WIND (PVP)
 //notes: Aztecross God Roll for PVP (https://www.youtube.com/watch?v=2yyKV_nkBqU) 
 dimwishlist:item=3110377595&perks=3250034553,1885400500,2450788523,460017080

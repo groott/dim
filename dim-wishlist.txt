@@ -1,6 +1,22 @@
 title:Private
 description:God Rolls only
 
-// AUTUMN WIND (PVP)
-//notes: Aztecross God Roll for PVP (https://www.youtube.com/watch?v=2yyKV_nkBqU) 
+// AUTUMN WIND (PvP)
+//notes: Aztecross God Roll for PvP (https://www.youtube.com/watch?v=2yyKV_nkBqU) 
 dimwishlist:item=3110377595&perks=3250034553,1885400500,2450788523,460017080
+dimwishlist:item=3110377595&perks=3250034553,1561002382,2450788523,460017080
+dimwishlist:item=3110377595&perks=3250034553,1968497646,2450788523,460017080
+
+// JORUM'S CLAW (PvP)
+//notes: Aztecross God Roll for PvP (https://www.youtube.com/watch?v=vOzQW1AZyWM) 
+dimwishlist:item=62937067&perks=1467527085,1561002382,588594999,1015611457,4008116374
+dimwishlist:item=62937067&perks=1467527085,1885400500,588594999,1015611457,4008116374
+
+// JORUM'S CLAW (PvE)
+//notes: Aztecross God Roll for PvE (https://www.youtube.com/watch?v=vOzQW1AZyWM) 
+dimwishlist:item=62937067&perks=1467527085,1885400500,1168162263,4104185692,4008116374
+dimwishlist:item=62937067&perks=1467527085,1561002382,1168162263,4104185692,4008116374
+dimwishlist:item=62937067&perks=1467527085,1968497646,1168162263,4104185692,4008116374
+dimwishlist:item=62937067&perks=1467527085,1968497646,1168162263,4293542123,4008116374
+dimwishlist:item=62937067&perks=1467527085,1561002382,1168162263,4293542123,4008116374
+dimwishlist:item=62937067&perks=1467527085,1885400500,1168162263,4293542123,4008116374

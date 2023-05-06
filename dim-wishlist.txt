@@ -1,6 +1,11 @@
 title:Private
 description:God Rolls only
 
+// UNWAVERING DUTY (PvE)
+//notes: LUCKYY 10Premium God Roll for PvE (https://www.youtube.com/watch?v=tM94WoV91PA)
+dimwishlist:item=3624844116&perks=1840239774,1087426260,1820235745,557221067
+dimwishlist:item=3624844116&perks=4090651448,1087426260,1820235745,557221067
+
 // TARAXIPPOS (PvP)
 //notes: Aztecross God Roll for PvP (https://www.youtube.com/watch?v=M2ff6U-HXJ4) 
 dimwishlist:item=3559361670&perks=1482024992,1885400500,1428297954,2846385770

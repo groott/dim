@@ -1,6 +1,21 @@
 title:Private
 description:God Rolls only
 
+// THE IMMORTAL (PvP)
+//notes: Best Aztecross God Roll for PvP (https://www.youtube.com/watch?v=tFFtZ7AKAcc) 
+dimwishlist:item=4039572196&perks=3250034553,1885400500,2846385770,365154968
+dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968
+dimwishlist:item=4039572196&perks=4090651448,1885400500,2846385770,365154968
+
+// THE IMMORTAL (PvP)
+//notes: Aztecross God Roll for PvP (https://www.youtube.com/watch?v=tFFtZ7AKAcc) 
+dimwishlist:item=4039572196&perks=3250034553,1968497646,2846385770,365154968
+dimwishlist:item=4039572196&perks=1482024992,1968497646,2846385770,365154968
+dimwishlist:item=4039572196&perks=4090651448,1968497646,2846385770,365154968
+dimwishlist:item=4039572196&perks=3250034553,1561002382,2846385770,365154968
+dimwishlist:item=4039572196&perks=1482024992,1561002382,2846385770,365154968
+dimwishlist:item=4039572196&perks=4090651448,1561002382,2846385770,365154968
+
 // UNWAVERING DUTY (PvE)
 //notes: LUCKYY 10Premium God Roll for PvE (https://www.youtube.com/watch?v=tM94WoV91PA)
 dimwishlist:item=3624844116&perks=1840239774,1087426260,1820235745,557221067
